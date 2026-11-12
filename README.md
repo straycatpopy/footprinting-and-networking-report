@@ -25,7 +25,7 @@ Web Server: Apache
 CMS: WordPress
 WAF: ModSecurity (SpiderLabs)
 Active local network hosts: 2
-Network device identified: Huawei
+Network device identified: Huawei router
 Purpose
 The purpose of this project was to demonstrate practical knowledge of information gathering,DNS enumeration,website fingerprinting,and network discovery.
 
